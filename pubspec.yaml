@@ -1,7 +1,7 @@
 name: custom_colored_container
 description: A simple custom colored container
 version: 0.0.1
-homepage:
+homepage: https://github.com/ritikaAphroECS/custom_colored_container.git
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
