@@ -1,6 +1,6 @@
 name: custom_colored_container
 description: A simple custom colored container
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/ritikaAphroECS/custom_colored_container.git
 
 environment:
